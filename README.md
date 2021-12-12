@@ -10,7 +10,7 @@ Instruções de utilização:
  - Aceder ao website http://localhost:8080/
 
 Restrições:
- - Um utilizador sem login efetuado apenas conseguer visualizar a página inicial(Home) e as notícias em inglês
+ - Um utilizador sem login efetuado apenas consegue visualizar a página inicial(Home) e as notícias em inglês
  - Um utilizador registado e com login efetuado tem acesso a todas as notícias em todos os idiomas
 
 Registo de utilizador:
