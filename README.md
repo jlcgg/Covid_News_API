@@ -1,5 +1,4 @@
-"# Covid_News_API" 
-API Covid News
+ #API Covid News
 
 Nesta API conseguimos ver notícias sobre o covid em diferentes idiomas, sendo eles, o inglês, português, espanhol e italiano.
 
